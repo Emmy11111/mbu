@@ -154,13 +154,13 @@ export default function Footer() {
 
             {/* Social icons */}
             <div className="flex items-center gap-5">
-              <a href="#" aria-label="Facebook" className="text-gray-600 hover:text-gray-900 transition-colors">
+              <a href="https://www.instagram.com/Uwibanze9" target="_blank" aria-label="Facebook" className="text-gray-600 hover:text-gray-900 transition-colors">
                 <FaFacebookF className="text-base" />
               </a>
-              <a href="#" aria-label="Twitter" className="text-gray-600 hover:text-gray-900 transition-colors">
+              <a href="https://x.com/Mimi2023" aria-label="Twitter" target="_blank" className="text-gray-600 hover:text-gray-900 transition-colors">
                 <FaTwitter className="text-base" />
               </a>
-              <a href="#" aria-label="Instagram" className="text-gray-600 hover:text-gray-900 transition-colors">
+              <a href="https://www.instagram.com/Uwibanze9" target="_blank" aria-label="Instagram" className="text-gray-600 hover:text-gray-900 transition-colors">
                 <FaInstagram className="text-base" />
               </a>
             </div>

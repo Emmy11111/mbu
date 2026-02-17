@@ -7,7 +7,7 @@ import HeroImage from "./hero-image";
       return (
         <section className="">
           <div className="">
-        <div className="md:h-[44vh] flex items-center justify-center">
+        <div className="md:h-[44vh] flex items-center justify-center pt-4 sm:pt-0">
           <div className="mx-auto w-full lg:max-w-5xl xl:max-w-6xl px-4 sm:px-6 lg:px-0 ">
             <h1 className="text-4xl sm:text-5xl lg:text-6xl font-bold leading-tight">
             Professional Real Estate &<br className="hidden sm:block" />
