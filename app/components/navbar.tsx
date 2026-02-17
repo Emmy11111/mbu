@@ -30,7 +30,7 @@ export default function NavBar() {
     };
   }, [open]);
 
-  const closeMenu = () => setOpen(false);
+  const closeMenu = () => setOpen(false)
 
   return (
     <header>
