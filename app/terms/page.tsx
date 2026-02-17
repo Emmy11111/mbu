@@ -63,7 +63,7 @@ const sections = [
   {
     id: "12",
     title: "Contact Us",
-    content: `If you have any questions about these Terms and Conditions, please contact us at info@mbandu.rw or call us at +250 788 000 000. Our team is available Monday to Friday, 8:00 AM – 5:00 PM (CAT), and we aim to respond to all inquiries within 24 hours.`,
+    content: `If you have any questions about these Terms and Conditions, please contact us at Stewardshipdivine@gmail.com or call us at +250792951993. Our team is available Monday to Friday, 8:00 AM – 5:00 PM (CAT), and we aim to respond to all inquiries within 24 hours.`,
   },
 ];
 
@@ -199,12 +199,12 @@ export default function TermsAndConditions() {
               <p className="text-xs text-gray-500 leading-relaxed">
                 <span className="font-semibold text-[#0D0D0D]">MB&amp;U Company Ltd</span> —
                 Registered in Rwanda. For questions regarding these terms, contact us at{" "}
-                <a href="mailto:info@mbandu.rw" className="font-semibold text-[#0D0D0D] underline underline-offset-2">
-                  info@mbandu.rw
+                <a href="mailto:Stewardshipdivine@gmail.com" className="font-semibold text-[#0D0D0D] underline underline-offset-2">
+                  Stewardshipdivine@gmail.com
                 </a>{" "}
                 or call{" "}
-                <a href="tel:+250788000000" className="font-semibold text-[#0D0D0D] underline underline-offset-2">
-                  +250 788 000 000
+                <a href="tel:+250792951993" className="font-semibold text-[#0D0D0D] underline underline-offset-2">
+                  +250792951993
                 </a>.
               </p>
             </div>

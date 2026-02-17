@@ -143,7 +143,7 @@ export default function Footer() {
 
             {/* Legal links */}
             <div className="flex items-center gap-6">
-                <p className="text-base text-gray-600 transition-colors">© {new Date().getFullYear()} MB&U Company Ltd – All rights reserved</p>
+                <p className="text-[15px] sm:text-base text-gray-600 transition-colors truncate">© {new Date().getFullYear()} MB&U Company Ltd – All rights reserved</p>
               {/* <a href="#" className="text-base text-gray-600 hover:text-gray-700 transition-colors">
                 Terms &amp; Conditions
               </a>

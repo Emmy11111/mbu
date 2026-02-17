@@ -29,7 +29,7 @@ export default function Overview() {
         {/* Right Stats */}
         <div className="grid grid-cols-2 gap-4">
           {/* Happy Customer */}
-          <div className="space-y-2 bg-[#061a370a] rounded-lg flex flex-col justify-center p-[30px]">
+          <div className="space-y-2 bg-[#F8F8F8] rounded-lg flex flex-col justify-center p-[30px]">
             <div className="text-xl sm:text-xl lg:text-3xl">
               3500+
             </div>
@@ -50,7 +50,7 @@ export default function Overview() {
           </div>
 
           {/* Property Ready */}
-          <div className="flex-row flex col-span-2 justify-between space-x-2 w-full relative bg-[#061a370a] p-[30px] rounded-lg">
+          <div className="flex-row flex col-span-2 justify-between space-x-2 w-full relative bg-[#F8F8F8] p-[30px] rounded-lg">
             <div className='space-y-2 justify-center flex flex-col'>
               <div className="text-xl sm:text-xl lg:text-3xl">
                 10,000+

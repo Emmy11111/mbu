@@ -43,7 +43,7 @@ const sections = [
   {
     id: "08",
     title: "Your Rights",
-    content: `You have the right to access the personal data we hold about you; to request correction of inaccurate or incomplete data; to request deletion of your data, subject to our legal retention obligations; to withdraw consent for marketing communications at any time; to request restriction of or object to certain types of processing; and to lodge a complaint with a relevant data protection authority. To exercise any of these rights, please contact us at info@mbandu.rw.`,
+    content: `You have the right to access the personal data we hold about you; to request correction of inaccurate or incomplete data; to request deletion of your data, subject to our legal retention obligations; to withdraw consent for marketing communications at any time; to request restriction of or object to certain types of processing; and to lodge a complaint with a relevant data protection authority. To exercise any of these rights, please contact us at Stewardshipdivine@gmail.com.`,
   },
   {
     id: "09",
@@ -68,7 +68,7 @@ const sections = [
   {
     id: "13",
     title: "Contact Us",
-    content: `If you have any questions, concerns, or requests regarding this Privacy Policy or the handling of your personal data, please contact us at info@mbandu.rw or call +250 788 000 000. Our team is available Monday to Friday, 8:00 AM – 5:00 PM (CAT), and we aim to respond to all privacy-related inquiries within 48 hours.`,
+    content: `If you have any questions, concerns, or requests regarding this Privacy Policy or the handling of your personal data, please contact us at Stewardshipdivine@gmail.com or call +250792951993. Our team is available Monday to Friday, 8:00 AM – 5:00 PM (CAT), and we aim to respond to all privacy-related inquiries within 48 hours.`,
   },
 ];
 
@@ -219,17 +219,17 @@ export default function PrivacyPolicy() {
                 <span className="font-semibold text-[#0D0D0D]">MB&amp;U Company Ltd</span> —
                 Registered in Rwanda. For privacy-related queries, contact us at{" "}
                 <a
-                  href="mailto:info@mbandu.rw"
+                  href="mailto:Stewardshipdivine@gmail.com"
                   className="font-semibold text-[#0D0D0D] underline underline-offset-2"
                 >
-                  info@mbandu.rw
+                  Stewardshipdivine@gmail.com
                 </a>{" "}
                 or call{" "}
                 <a
-                  href="tel:+250788000000"
+                  href="tel:+250792951993"
                   className="font-semibold text-[#0D0D0D] underline underline-offset-2"
                 >
-                  +250 788 000 000
+                  +250792951993
                 </a>.
               </p>
             </div>

@@ -22,3 +22,17 @@ body {
   background-repeat: no-repeat;
   background-size: cover;
 }
+
+@media screen and (max-width: 700px) {
+  .herosectionparent {
+    margin: 50px 0px 50px 0px !important;
+  }
+
+  .hero-section-img {
+    min-height: 50vh;
+  background-position-y: 0vh !important;
+  }
+  .scrolltoseemore{
+    padding-right: 18px !important;
+  }
+}

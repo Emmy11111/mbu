@@ -83,7 +83,7 @@ export default function WhoWeServe() {
         </div>
 
         {/* Grid with outer border + internal dividers */}
-        <div className="border border-l-[0px] border-r-[0px] border-white/10 grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3">
+        <div className="border sm:border-l-[0px] sm:border-r-[0px] border-white/10 grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3">
           {cards.map((card, index) => {
             const col = index % 3;
             const row = Math.floor(index / 3);

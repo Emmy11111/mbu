@@ -15,20 +15,15 @@ export default function HeroImage() {
 }
 
   return (
-    <section className="relative w-full">
+    <section className="relative w-full herosectionparent">
       <div className="md:h-[60vh] w-full hero-section-img relative overflow-hidden">
         <div className="w-full flex justify-end">
-<div onClick={scrollNextPage} className="cursor-pointer bg-white pl-6 py-5 flex items-center gap-4 text-base text-gray-600 w-fit lg:pr-[calc((100vw-64rem)/2)] xl:pr-[calc((100vw-72rem)/2)]">
+<div onClick={scrollNextPage} className="cursor-pointer bg-white pl-6 py-5 flex items-center gap-4 text-base text-gray-600 w-fit lg:pr-[calc((100vw-64rem)/2)] xl:pr-[calc((100vw-72rem)/2)] scrolltoseemore">
   <span className="whitespace-nowrap">Scroll down to explore</span>
   <FiArrowDown className="text-lg" />
 </div>
         </div>
-        {/* </div> */}
-
-        {/* BOTTOM LEFT WHITE BLOCK (as in image) */}
         <div className="absolute bottom-0 left-0 w-[35vw] py-6 bg-white" />
-
-        {/* SEARCH BAR */}
       </div>
     </section>
   );

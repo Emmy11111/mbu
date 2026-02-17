@@ -62,7 +62,7 @@ function ReasonCard({
   return (
     <div className="flex items-start gap-5">
       {/* Icon box — same role as portrait in testimonials */}
-      <div className="w-14 h-14 rounded-lg bg-gray-100 flex items-center justify-center text-gray-500 shrink-0">
+      <div className="w-14 h-14 rounded-lg bg-[#F8F8F8] flex items-center justify-center text-gray-500 shrink-0">
         {icon}
       </div>
 
